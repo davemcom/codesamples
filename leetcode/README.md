@@ -7,6 +7,7 @@ This folder contains the problem statements and my solutions to these questions.
 
 ### Linked List:
 * [add two numbers](linked_list/add_two_numbers.js.md)
+* [merge two sorted lists](linked_list/merge_two_sorted_lists.js.md)
 
 ### Recursion:
 * [permutations](recursion/permutations.js.md)
